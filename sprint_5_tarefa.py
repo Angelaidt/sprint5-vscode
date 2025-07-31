@@ -15,3 +15,5 @@ print(x)
   # e pronto, o resultado aparece no terminal. 
 
   #Próxima etapa: fazer o commit 
+
+  # aqui é o seu arquivo para escrever e codar.
